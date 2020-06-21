@@ -1,5 +1,5 @@
 # Analyze AB Test Results
-Udacity Data Analyst Nanodegree Project3 Analyze-AB-Test-Results
+Udacity [Data Analyst Nanodegree](https://eu.udacity.com/course/data-analyst-nanodegree--nd002) Project3 Analyze-AB-Test-Results
 
 # Summary
 For this project, we will understand the results of an A/B test run by an e-commerce website. The goal is to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
